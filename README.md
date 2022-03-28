@@ -39,3 +39,14 @@ If you find happen to find this workshop in any way useful, please share this ve
 Further Information about nnU-Net is presented in the following lectures:
 - [Lecture by Paul F. Jäger](https://www.youtube.com/watch?v=3po8qVzz5Tc&t=2196s)
 - [Lecture by Fabian Isensee](https://www.youtube.com/watch?v=C6tpnJRpt90)
+
+---
+
+<br>
+
+<p align="left">
+  <img src="https://polybox.ethz.ch/index.php/s/kqDrOTTIzPFYPU7/download" width="150"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Deutsches_Krebsforschungszentrum_Logo.svg/1200px-Deutsches_Krebsforschungszentrum_Logo.svg.png" width="500"> 
+</p>
+
+This library is developed and maintained by the Interactive Machine Learning Group of [Helmholtz Imaging](https://www.helmholtz-imaging.de/) and the [DKFZ](https://www.dkfz.de/de/index.html).
