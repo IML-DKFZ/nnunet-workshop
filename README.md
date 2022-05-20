@@ -48,7 +48,7 @@ Further Information about nnU-Net is presented in the following lectures:
 ### MITK with nnU-Net
 MITK has a new experimental feature which uses pretrained nnU-Net models as a segmentation tool.
 This feature has been added since its release of version 2022.04.
-For further information about this we refer to the [MITK Documentation}(https://docs.mitk.org/2022.04/org_mitk_views_segmentation.html#org_mitk_views_segmentationnnUNetTool).
+For further information about this we refer to the [MITK Documentation](https://docs.mitk.org/2022.04/org_mitk_views_segmentation.html#org_mitk_views_segmentationnnUNetTool).
 
 ---
 
